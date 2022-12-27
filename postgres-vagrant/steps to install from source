@@ -1,0 +1,6 @@
+1. Get tar ball
+2. Check tar ball integrity using checksum file
+3. extract tar ball using
+    tar xvzf postgresql.tar.gz
+4. create a build directory (other than source directory)
+5. From build directory call the configure using prefix as the installation directory path

@@ -1,0 +1,4 @@
+.vagrant/
+*.log
+postgresql-11.1*
+postgres-build-dir

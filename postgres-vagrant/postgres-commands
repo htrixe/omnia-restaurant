@@ -1,0 +1,2 @@
+# starting postgres
+pg_ctl -D /postgres-data -l sample.log start
